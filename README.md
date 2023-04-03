@@ -1,3 +1,3 @@
 # FlexboxFroggy
 
-![img](../FlexboxFroggy/flexbox.png)
+![Alt text](./flexbox.png)
